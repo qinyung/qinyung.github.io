@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "测试"
+date:       2022-4-24 12:00:00
+author:     "Sprinkle"
+header-img: "img/home-bg.jpg"
+tags:
+    - 测试
+    - 博客
+---
+
+# 博客迁移？
+nonono，是新开一个
