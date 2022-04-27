@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "我是Sprinkle！一个喜欢前端开发，玩我的世界的高中生 ﾟ∀ﾟ)σ"
 keyword: "Sprinkle,pntang,博客,前端,编程,python"
-url: "https://spr233.eu.org"              # your host, for absolute URL
+url: "https://sprinkle.eu.org"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
